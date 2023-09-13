@@ -4,6 +4,7 @@
 
 <h2>Languages used:</h2>
 <ul>
+<li>React</li>
 <li>JavaScript</li>
 <li>CSS</li>
 <li>HTML</li>
